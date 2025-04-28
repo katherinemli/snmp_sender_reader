@@ -6,7 +6,7 @@ Full Stack Developer with 6 years of experience building scalable web applicatio
 
 ## Technical Skills
 
-Frontend: Vue.js, Angular, CSS, Webpack, D3.js  
+Frontend: React, Vue.js, Angular, CSS, Webpack, D3.js  
 Backend: Go, PHP, C, Django, Python  
 Core: Embedded Systems, Memory Management, Threading, Network Protocols  
 Data: MySQL, MongoDB, Real-time Processing, AI/ML Integration, GIS (Google Maps, Leaflet)  
