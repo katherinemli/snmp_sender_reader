@@ -1,3 +1,11 @@
 # snmp_sender_reader
 
-Repositorio archivado.
+**[Français](#français) · [English](#english)**
+
+## Français
+
+Dépôt archivé.
+
+## English
+
+Archived repository.
